@@ -1,4 +1,4 @@
-# info340
+# Student RSO Management Database
 ![alt tag](http://i.imgur.com/VWx3DHm.png)
 
 Each team will conceive, diagram, code and populate a database from scratch.
